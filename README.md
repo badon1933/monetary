@@ -19,10 +19,10 @@ Sistem ini mempunyai beberapa fungsionalitas diantaranya:
 Langkah-langkah untuk menjalankan aplikasi
   1. Download dan Install CodeIgniter versi 3.
   2. Download projek dan tempatkan pada folder htdocs
-  3. Buat database dengan nama 'paketlebaran', kemudian import file paketlebaran.sql
-  4. Tempatkan file sesuai dengan foldernya masing-masing pada CodeIgniter yang telah terinstall
-  5. Jalankan Apache dan MySQL pada xampp.
-  5. Buka alamat ini : 'http://localhost/monetary/'
-  6. Akan tampil laman login, silahkan klik 'Create an Account!' untuk membuat akun.
-  7. Setelah selesai registrasi pengguna akan langsung diarahkan ke laman login. Silahkan login dengan akun yang telah dibuat sebelumnya.
-  8. Setelah login pengguna akan diarahkan ke laman dashboard. Selesai.
+  3. Tempatkan file sesuai dengan foldernya masing-masing pada CodeIgniter yang telah terinstall
+  4. Jalankan Apache dan MySQL pada xampp.
+  5. Buat database dengan nama 'paketlebaran', kemudian import file paketlebaran.sql
+  6. Buka alamat ini : 'http://localhost/monetary/'
+  7. Akan tampil laman login, silahkan klik 'Create an Account!' untuk membuat akun.
+  8. Setelah selesai registrasi pengguna akan langsung diarahkan ke laman login. Silahkan login dengan akun yang telah dibuat sebelumnya.
+  9. Setelah login pengguna akan diarahkan ke laman dashboard. Selesai.
